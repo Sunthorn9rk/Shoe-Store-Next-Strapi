@@ -3,7 +3,12 @@
 This is a full-stack e-commerce project built using **Next.js** for the frontend and **Strapi** for the backend.
 
 ## Images
-![Uploading LandingPage.png…]()
+![LandingPage](https://github.com/user-attachments/assets/8ae714d8-ad41-4b96-bf84-b8cdf2b3fd9d)
+![CategoryPage](https://github.com/user-attachments/assets/c9804c65-2746-4428-b2bc-b2970bd407f5)
+![ProductPage](https://github.com/user-attachments/assets/7dd18b40-e599-44ea-b738-cc912e6d5c08)
+![CartPage](https://github.com/user-attachments/assets/a256d99c-0c5e-4a3c-847b-84ce38f44d9d)
+![PaymentPage](https://github.com/user-attachments/assets/a826ec10-6b63-4cb5-9a34-a8f0a7989ac8)
+
 
 
 2️⃣ Setup Environment Variables
