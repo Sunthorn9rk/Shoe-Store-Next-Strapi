@@ -2,6 +2,10 @@
 
 This is a full-stack e-commerce project built using **Next.js** for the frontend and **Strapi** for the backend.
 
+## Images
+![Uploading LandingPage.png…]()
+
+
 2️⃣ Setup Environment Variables
 Create an .env file inside both frontend and backend, and add the necessary configurations.
 
